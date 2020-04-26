@@ -1,0 +1,8 @@
+ignoreBots
+blockCurses
+addComments
+botEnabled
+allowBans
+allowKicks
+channelFiltering
+allowSettingChange
